@@ -1,0 +1,11 @@
+/*
+ * Mootools UI Progressbar @VERSION
+ *
+ * Copyright 2011, AUTHORS.txt (http://mootools-ui.net/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://mootools-ui.net/license
+ *
+ * http://docs.mootools-ui.net/UI/Progressbar#theming
+ */
+.ui-progressbar { height:2em; text-align: left; }
+.ui-progressbar .ui-progressbar-value {margin: -1px; height:100%; }

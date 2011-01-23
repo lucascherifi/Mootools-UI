@@ -1,0 +1,24 @@
+/*
+ * Mootools UI CSS Framework @VERSION
+ *
+ * Copyright 2011, AUTHORS.txt (http://mootools-ui.net/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://mootools-ui.net/license
+ *
+ * http://docs.mootools-ui.net/UI/Theming
+ */
+@import url("mootools.ui.core.css");
+
+@import url("mootools.ui.accordion.css");
+@import url("mootools.ui.autocomplete.css");
+@import url("mootools.ui.button.css");
+@import url("mootools.ui.datepicker.css");
+@import url("mootools.ui.dialog.css");
+@import url("mootools.ui.menu.css");
+@import url("mootools.ui.progressbar.css");
+@import url("mootools.ui.resizable.css");
+@import url("mootools.ui.selectable.css");
+@import url("mootools.ui.slider.css");
+@import url("mootools.ui.spinner.css");
+@import url("mootools.ui.tabs.css");
+@import url("mootools.ui.tooltip.css");

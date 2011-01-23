@@ -1,0 +1,13 @@
+/*
+ * Mootools UI Autocomplete @VERSION
+ *
+ * Copyright 2011, AUTHORS.txt (http://mootools-ui.net/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://mootools-ui.net/license
+ *
+ * http://docs.mootools-ui.net/UI/Autocomplete#theming
+ */
+.ui-autocomplete { position: absolute; cursor: default; }	
+
+/* workarounds */
+* html .ui-autocomplete { width:1px; } /* without this, the menu expands to 100% in IE6 */

@@ -1,0 +1,10 @@
+/*
+ * Mootools UI Selectable @VERSION
+ *
+ * Copyright 2011, AUTHORS.txt (http://mootools-ui.net/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://mootools-ui.net/license
+ *
+ * http://docs.mootools-ui.net/UI/Selectable#theming
+ */
+.ui-selectable-helper { position: absolute; z-index: 100; border:1px dotted black; }

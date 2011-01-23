@@ -1,0 +1,11 @@
+/*
+ * Mootools UI CSS Framework @VERSION
+ *
+ * Copyright 2011, AUTHORS.txt (http://mootools-ui.net/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://mootools-ui.net/license
+ *
+ * http://docs.mootools-ui.net/UI/Theming
+ */
+@import "mootools.ui.base.css";
+@import "mootools.ui.theme.css";
